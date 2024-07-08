@@ -1,0 +1,14 @@
+[font]
+size = 11
+
+[font.normal]
+family = "GeistMonoNerdFontMono"
+#family = "FiraCodeNerdFont"
+#family = "HackNerdFont"
+style = "Medium"
+
+[keyboard]
+bindings = [
+   { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
+
