@@ -12,3 +12,5 @@ bindings = [
    { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" }
 ]
 
+[env]
+term = "xterm-256color"
